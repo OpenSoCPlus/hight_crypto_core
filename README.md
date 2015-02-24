@@ -1,1 +1,1 @@
-# hight_core
+# HIGHT_Crypto_core
