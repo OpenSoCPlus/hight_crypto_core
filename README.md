@@ -6,8 +6,7 @@ Contributors
 * JoonSoo Ha
 * Younjoo Kim
 
-Official Page
+More Informatoin
 ----------------
-OpenSoCPlus
-	(http://opensocplus.github.io/hight_crypto_core)
-
+[Project Page] (http://opensocplus.github.io/hight_crypto_core)
+[OpenSoCPlus Main Page] (http://opensocplus.github.io)
