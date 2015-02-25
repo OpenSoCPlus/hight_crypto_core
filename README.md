@@ -1,5 +1,5 @@
 # HIGHT_Crypto_core
 
-# Contributors
+## Contributors
 - JoonSoo Ha
 - Younjoo Kim
